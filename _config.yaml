@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: Hahn-NehsoailDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: 追梦战队DreamChaser
 subtitle: 
-description: 
+description: 追梦无限，挑战至上
 header: images/background.jpg
 header-video: images/bgvideo.mp4
 footer: images/background.jpg
 proofer: false
-slogan: 一往无前华科行，气壮山河狼牙名
+slogan: 追梦无限，挑战至上
 # site social media and other links
 links:
-  email: contact@Hahn-NehsoailDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  github: Hahn-NehsoailDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: Nehsoail@163.com
+  github: https://github.com/Hahn-Nehsoail
   bilibili: "475402455"
   wechat: https://mp.weixin.qq.com/s/Zrk4PRRGSimJG9bVDj3Zsg
 ## jekyll settings
